@@ -6,14 +6,14 @@
             "bin": [
                 "wandersort.exe"
             ],
-            "hash": "c2aff463bac84fddc5fbf4b578d29ea5abe67e56410514124e42b656417e4c72"
+            "hash": "0ec67820044b8f56e43f5fd5fa31b87342dfb6cc4985d22b4c2f14c10fafde7b"
         },
         "arm64": {
             "url": "https://github.com/jammutkarsh/wandersort/releases/download/v0.1.0-beta/wandersort_0.1.0-beta_windows_arm64.zip",
             "bin": [
                 "wandersort.exe"
             ],
-            "hash": "a874df1d758399c785757280e52e149a876038230a6b8dd415c3a9b53ce703c9"
+            "hash": "c9557eb8b53ed713ddf8221dc5f2acd6999a2692749f4c37b0c7bc100230877a"
         }
     },
     "homepage": "https://github.com/jammutkarsh/wandersort",
